@@ -34,7 +34,7 @@ To force a specific application use open -a (where -a is not a directory flag bu
 
 To move a file use mv *filename* ../ to move it up
 Mv can also be used to rename. Which is: mv current_filename new_filename
-(Link for mv here:  https://ds.codeup.com/fundamentals/cli/moving-files/)
+
 
 To remove use rm for files, rmdir for directory (has to be empty) unless you use rm -r. Note that when using this, it permanently deletes forever. Not to the trash so *BEWARE*
 
@@ -43,6 +43,6 @@ To copy files within a directory, enter the directory and type cp to copy follow
 To enter superuser mode, type sudo -s *BEWARE. You don't need this commonly but now you know*
 To return to regular terminal type su - *account name* which in my case is jarredcole
 
-Further info on terminal commands at:  https://ds.codeup.com/fundamentals/cli/more-topics/
+Further info on terminal commands at: https://support.apple.com/guide/terminal/execute-commands-and-run-tools-apdb66b5242-0d18-49fc-9c47-a2498b7c91d5/mac
 
 Further resources: https://www.unix.com/man-page/FreeBSD/1/ls/
