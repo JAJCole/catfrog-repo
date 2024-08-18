@@ -41,7 +41,7 @@ To remove use rm for files, rmdir for directory (has to be empty) unless you use
 To copy files within a directory, enter the directory and type cp to copy followed by the file you want to copy and the name of the resultant copy file: cp test1.txt test2.txt
 
 To enter superuser mode, type sudo -s *BEWARE. You don't need this commonly but now you know*
-To return to regular terminal type su - *account name* which in my case is jarredcole
+To return to regular terminal type su - *account name* 
 
 Further info on terminal commands at: https://support.apple.com/guide/terminal/execute-commands-and-run-tools-apdb66b5242-0d18-49fc-9c47-a2498b7c91d5/mac
 
